@@ -1,2 +1,2 @@
-# POS-Infinite-rolling
-POS-Infinite-rolling
+# infinity-rolling
+infinity rolling
