@@ -53,7 +53,7 @@
     padding: 9px 0;
     display: flex;
     flex-flow: row nowrap;
-    align-items: top;
+    align-items: center;
 }
 .roller > ul > li{
     padding-right: 30px;
